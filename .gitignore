@@ -1,0 +1,5 @@
+.vs/
+Currency.Model/obj/
+Currency.Api/bin/
+Currency.Api/obj/
+Currency.Service/obj/
