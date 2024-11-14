@@ -1,0 +1,12 @@
+D:\0_project\source\repos\currrrenctAPI\Currency.Common\bin\Debug\net8.0\Currency.Common.deps.json
+D:\0_project\source\repos\currrrenctAPI\Currency.Common\bin\Debug\net8.0\Currency.Common.dll
+D:\0_project\source\repos\currrrenctAPI\Currency.Common\bin\Debug\net8.0\Currency.Common.pdb
+D:\0_project\source\repos\currrrenctAPI\Currency.Common\obj\Debug\net8.0\Currency.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\0_project\source\repos\currrrenctAPI\Currency.Common\obj\Debug\net8.0\Currency.Common.AssemblyInfoInputs.cache
+D:\0_project\source\repos\currrrenctAPI\Currency.Common\obj\Debug\net8.0\Currency.Common.AssemblyInfo.cs
+D:\0_project\source\repos\currrrenctAPI\Currency.Common\obj\Debug\net8.0\Currency.Common.csproj.CoreCompileInputs.cache
+D:\0_project\source\repos\currrrenctAPI\Currency.Common\obj\Debug\net8.0\Currency.Common.sourcelink.json
+D:\0_project\source\repos\currrrenctAPI\Currency.Common\obj\Debug\net8.0\Currency.Common.dll
+D:\0_project\source\repos\currrrenctAPI\Currency.Common\obj\Debug\net8.0\refint\Currency.Common.dll
+D:\0_project\source\repos\currrrenctAPI\Currency.Common\obj\Debug\net8.0\Currency.Common.pdb
+D:\0_project\source\repos\currrrenctAPI\Currency.Common\obj\Debug\net8.0\ref\Currency.Common.dll
